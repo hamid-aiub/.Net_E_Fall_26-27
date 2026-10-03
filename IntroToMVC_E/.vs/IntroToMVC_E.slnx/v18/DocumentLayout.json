@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_E\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE616BC3-2B42-49E8-84A1-45A3913E4423}|IntroToMVC_E\\IntroToMVC_E.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_e\\introtomvc_e\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE616BC3-2B42-49E8-84A1-45A3913E4423}|IntroToMVC_E\\IntroToMVC_E.csproj|solutionrelative:introtomvc_e\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE616BC3-2B42-49E8-84A1-45A3913E4423}|IntroToMVC_E\\IntroToMVC_E.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_e\\introtomvc_e\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE616BC3-2B42-49E8-84A1-45A3913E4423}|IntroToMVC_E\\IntroToMVC_E.csproj|solutionrelative:introtomvc_e\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE616BC3-2B42-49E8-84A1-45A3913E4423}|IntroToMVC_E\\IntroToMVC_E.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_e\\introtomvc_e\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE616BC3-2B42-49E8-84A1-45A3913E4423}|IntroToMVC_E\\IntroToMVC_E.csproj|solutionrelative:introtomvc_e\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE616BC3-2B42-49E8-84A1-45A3913E4423}|IntroToMVC_E\\IntroToMVC_E.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_e\\introtomvc_e\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE616BC3-2B42-49E8-84A1-45A3913E4423}|IntroToMVC_E\\IntroToMVC_E.csproj|solutionrelative:introtomvc_e\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE616BC3-2B42-49E8-84A1-45A3913E4423}|IntroToMVC_E\\IntroToMVC_E.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_e\\introtomvc_e\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE616BC3-2B42-49E8-84A1-45A3913E4423}|IntroToMVC_E\\IntroToMVC_E.csproj|solutionrelative:introtomvc_e\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE616BC3-2B42-49E8-84A1-45A3913E4423}|IntroToMVC_E\\IntroToMVC_E.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_e\\introtomvc_e\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE616BC3-2B42-49E8-84A1-45A3913E4423}|IntroToMVC_E\\IntroToMVC_E.csproj|solutionrelative:introtomvc_e\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE616BC3-2B42-49E8-84A1-45A3913E4423}|IntroToMVC_E\\IntroToMVC_E.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_e\\introtomvc_e\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE616BC3-2B42-49E8-84A1-45A3913E4423}|IntroToMVC_E\\IntroToMVC_E.csproj|solutionrelative:introtomvc_e\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE616BC3-2B42-49E8-84A1-45A3913E4423}|IntroToMVC_E\\IntroToMVC_E.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_e\\introtomvc_e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE616BC3-2B42-49E8-84A1-45A3913E4423}|IntroToMVC_E\\IntroToMVC_E.csproj|solutionrelative:introtomvc_e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 193,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_E\\IntroToMVC_E\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "IntroToMVC_E\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_E\\IntroToMVC_E\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "IntroToMVC_E\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T05:01:08.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_E\\IntroToMVC_E\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_E\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_E\\IntroToMVC_E\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "IntroToMVC_E\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T05:08:09.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_E\\IntroToMVC_E\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_E\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_E\\IntroToMVC_E\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "IntroToMVC_E\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T05:03:25.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_E\\IntroToMVC_E\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "IntroToMVC_E\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_E\\IntroToMVC_E\\Models\\StudentModel.cs",
+              "RelativeToolTip": "IntroToMVC_E\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T04:52:57.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_E\\IntroToMVC_E\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_E\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_E\\IntroToMVC_E\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IntroToMVC_E\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T04:45:57.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_E\\IntroToMVC_E\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_E\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_E\\IntroToMVC_E\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "IntroToMVC_E\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T04:42:17.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_E\\IntroToMVC_E\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IntroToMVC_E\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_E\\IntroToMVC_E\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IntroToMVC_E\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T04:37:14.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_E\\IntroToMVC_E\\Program.cs",
+              "RelativeDocumentMoniker": "IntroToMVC_E\\Program.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_E\\IntroToMVC_E\\Program.cs",
+              "RelativeToolTip": "IntroToMVC_E\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T04:34:17.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

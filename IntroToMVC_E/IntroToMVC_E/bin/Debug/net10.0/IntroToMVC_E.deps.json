@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "IntroToMVC_E/1.0.0": {
+        "runtime": {
+          "IntroToMVC_E.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntroToMVC_E/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
