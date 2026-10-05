@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_Lab_W2_Sec_E\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C318A4DC-805E-421E-AF5D-094E1C221D14}|IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_lab_w2_sec_e\\introtomvc_lab_w2_sec_e\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C318A4DC-805E-421E-AF5D-094E1C221D14}|IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E.csproj|solutionrelative:introtomvc_lab_w2_sec_e\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C318A4DC-805E-421E-AF5D-094E1C221D14}|IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_lab_w2_sec_e\\introtomvc_lab_w2_sec_e\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C318A4DC-805E-421E-AF5D-094E1C221D14}|IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E.csproj|solutionrelative:introtomvc_lab_w2_sec_e\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C318A4DC-805E-421E-AF5D-094E1C221D14}|IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_lab_w2_sec_e\\introtomvc_lab_w2_sec_e\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C318A4DC-805E-421E-AF5D-094E1C221D14}|IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E.csproj|solutionrelative:introtomvc_lab_w2_sec_e\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C318A4DC-805E-421E-AF5D-094E1C221D14}|IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_lab_w2_sec_e\\introtomvc_lab_w2_sec_e\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C318A4DC-805E-421E-AF5D-094E1C221D14}|IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E.csproj|solutionrelative:introtomvc_lab_w2_sec_e\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C318A4DC-805E-421E-AF5D-094E1C221D14}|IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_lab_w2_sec_e\\introtomvc_lab_w2_sec_e\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C318A4DC-805E-421E-AF5D-094E1C221D14}|IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E.csproj|solutionrelative:introtomvc_lab_w2_sec_e\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C318A4DC-805E-421E-AF5D-094E1C221D14}|IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_lab_w2_sec_e\\introtomvc_lab_w2_sec_e\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C318A4DC-805E-421E-AF5D-094E1C221D14}|IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E.csproj|solutionrelative:introtomvc_lab_w2_sec_e\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C318A4DC-805E-421E-AF5D-094E1C221D14}|IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_lab_w2_sec_e\\introtomvc_lab_w2_sec_e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C318A4DC-805E-421E-AF5D-094E1C221D14}|IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E.csproj|solutionrelative:introtomvc_lab_w2_sec_e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "IntroToMVC_Lab_W2_Sec_E\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E\\Models\\Student.cs",
+              "RelativeToolTip": "IntroToMVC_Lab_W2_Sec_E\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T06:17:11.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_Lab_W2_Sec_E\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IntroToMVC_Lab_W2_Sec_E\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-05T06:02:33.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_Lab_W2_Sec_E\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "IntroToMVC_Lab_W2_Sec_E\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-05T06:00:35.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_Lab_W2_Sec_E\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "IntroToMVC_Lab_W2_Sec_E\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-05T05:47:57.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "IntroToMVC_Lab_W2_Sec_E\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "IntroToMVC_Lab_W2_Sec_E\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T05:39:16.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IntroToMVC_Lab_W2_Sec_E\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IntroToMVC_Lab_W2_Sec_E\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T05:35:38.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E\\Program.cs",
+              "RelativeDocumentMoniker": "IntroToMVC_Lab_W2_Sec_E\\Program.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_Lab_W2_Sec_E\\IntroToMVC_Lab_W2_Sec_E\\Program.cs",
+              "RelativeToolTip": "IntroToMVC_Lab_W2_Sec_E\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T05:34:00.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1007,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
