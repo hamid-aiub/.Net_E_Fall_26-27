@@ -1,0 +1,33 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div>
+    <h1>Create Student</h1>
+    <form method="post" action="/student/create">
+        <table>
+            <tr>
+                <td>Student Name</td>
+                <td><input type="text" name="name" placeholder="Enter Name"/> </td>
+            </tr>
+            <tr>
+                <td>Department</td>
+                <td><input type="text" name="department" placeholder="Enter Department" /> </td>
+            </tr>
+            <tr>
+                <td>Program</td>
+                <td><input type="text" name="program" placeholder="Enter Program" /> </td>
+            </tr>
+            <tr>
+                <td>Credit Completed</td>
+                <td><input type="number" name="credit_completed" placeholder="Enter Completed Credit" /> </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><button type="submit" >Create</button></td>
+            </tr>
+        </table>
+    </form>
+</div>
