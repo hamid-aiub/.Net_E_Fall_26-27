@@ -22,6 +22,28 @@ namespace IntroToEF_E.Controllers
             return View();
         }
 
+        public IActionResult Update(int id)
+        {
+            var student = _context.Student.FirstOrDefault(s => s.id == id);
+            if(student == null)
+            {
+                return NotFound();
+            }
+
+            return View(student);
+        }
+        public IActionResult Delete(int id)
+        {
+            var student = _context.Student.FirstOrDefault(s => s.id == id);
+            if (student == null)
+            {
+                return NotFound();
+            }
+
+            return View(student);
+
+        }
+
         [HttpPost]
         public IActionResult Create(Student student)
         {
@@ -32,6 +54,44 @@ namespace IntroToEF_E.Controllers
                 return RedirectToAction("Index");
             }
             return View(student);
+        }
+
+        [HttpPost]
+        public IActionResult Update(int id, Student student)
+        {
+            var std = _context.Student.FirstOrDefault(s => s.id == id);
+            if (std == null)
+            {
+                return NotFound();
+            }
+            if (ModelState.IsValid)
+            {
+                std.name = student.name;
+                std.department = student.department;
+                std.program = student.program;
+                std.credit_completed = student.credit_completed;
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+
+            return View();
+
+        }
+        [HttpPost]
+        public IActionResult Remove(int id)
+        {
+            var student = _context.Student.FirstOrDefault(s => s.id == id);
+            if (student == null)
+            {
+                return NotFound();
+            }
+            if (ModelState.IsValid)
+            {
+                _context.Student.Remove(student);
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View();
         }
     }
 }

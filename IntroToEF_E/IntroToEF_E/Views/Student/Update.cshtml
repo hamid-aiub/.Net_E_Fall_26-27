@@ -1,0 +1,33 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div>
+    <h3>Update Student Information</h3>
+    <form method="post" action="/student/update/@Model.id">
+        <table>
+            <tr>
+                <td>Student Name</td>
+                <td><input type="text" name="name" placeholder="Enter Name" value="@Model.name"/> </td>
+            </tr>
+            <tr>
+                <td>Department</td>
+                <td><input type="text" name="department" placeholder="Enter Department" value="@Model.department"/> </td>
+            </tr>
+            <tr>
+                <td>Program</td>
+                <td><input type="text" name="program" placeholder="Enter Program" value="@Model.program"/> </td>
+            </tr>
+            <tr>
+                <td>Credit Completed</td>
+                <td><input type="number" name="credit_completed" placeholder="Enter Completed Credit" value="@Model.credit_completed"/> </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><button type="submit">Update</button></td>
+            </tr>
+        </table>
+    </form>
+</div>
