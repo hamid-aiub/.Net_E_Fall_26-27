@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\teacher\\source\\repos\\IntroToEF_E\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F71FB93-EA0F-4ED1-AF54-3F2DC18FF447}|IntroToEF_E\\IntroToEF_E.csproj|c:\\users\\teacher\\source\\repos\\introtoef_e\\introtoef_e\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F71FB93-EA0F-4ED1-AF54-3F2DC18FF447}|IntroToEF_E\\IntroToEF_E.csproj|solutionrelative:introtoef_e\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{583E3705-1F88-92C7-B187-E87CD13306E4}|IntroToEF_E\\IntroToEF_E.csproj|c:\\users\\teacher\\source\\repos\\introtoef_e\\introtoef_e\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583E3705-1F88-92C7-B187-E87CD13306E4}|IntroToEF_E\\IntroToEF_E.csproj|solutionrelative:introtoef_e\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F71FB93-EA0F-4ED1-AF54-3F2DC18FF447}|IntroToEF_E\\IntroToEF_E.csproj|c:\\users\\teacher\\source\\repos\\introtoef_e\\introtoef_e\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F71FB93-EA0F-4ED1-AF54-3F2DC18FF447}|IntroToEF_E\\IntroToEF_E.csproj|solutionrelative:introtoef_e\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{583E3705-1F88-92C7-B187-E87CD13306E4}|IntroToEF_E\\IntroToEF_E.csproj|c:\\users\\teacher\\source\\repos\\introtoef_e\\introtoef_e\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{583E3705-1F88-92C7-B187-E87CD13306E4}|IntroToEF_E\\IntroToEF_E.csproj|solutionrelative:introtoef_e\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F71FB93-EA0F-4ED1-AF54-3F2DC18FF447}|IntroToEF_E\\IntroToEF_E.csproj|c:\\users\\teacher\\source\\repos\\introtoef_e\\introtoef_e\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F71FB93-EA0F-4ED1-AF54-3F2DC18FF447}|IntroToEF_E\\IntroToEF_E.csproj|solutionrelative:introtoef_e\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{583E3705-1F88-92C7-B187-E87CD13306E4}|IntroToEF_E\\IntroToEF_E.csproj|c:\\users\\teacher\\source\\repos\\introtoef_e\\introtoef_e\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{583E3705-1F88-92C7-B187-E87CD13306E4}|IntroToEF_E\\IntroToEF_E.csproj|solutionrelative:introtoef_e\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F71FB93-EA0F-4ED1-AF54-3F2DC18FF447}|IntroToEF_E\\IntroToEF_E.csproj|c:\\users\\teacher\\source\\repos\\introtoef_e\\introtoef_e\\ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F71FB93-EA0F-4ED1-AF54-3F2DC18FF447}|IntroToEF_E\\IntroToEF_E.csproj|solutionrelative:introtoef_e\\ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{583E3705-1F88-92C7-B187-E87CD13306E4}|IntroToEF_E\\IntroToEF_E.csproj|c:\\users\\teacher\\source\\repos\\introtoef_e\\introtoef_e\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{583E3705-1F88-92C7-B187-E87CD13306E4}|IntroToEF_E\\IntroToEF_E.csproj|solutionrelative:introtoef_e\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F71FB93-EA0F-4ED1-AF54-3F2DC18FF447}|IntroToEF_E\\IntroToEF_E.csproj|c:\\users\\teacher\\source\\repos\\introtoef_e\\introtoef_e\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F71FB93-EA0F-4ED1-AF54-3F2DC18FF447}|IntroToEF_E\\IntroToEF_E.csproj|solutionrelative:introtoef_e\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{583E3705-1F88-92C7-B187-E87CD13306E4}|IntroToEF_E\\IntroToEF_E.csproj|c:\\users\\teacher\\source\\repos\\introtoef_e\\introtoef_e\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{583E3705-1F88-92C7-B187-E87CD13306E4}|IntroToEF_E\\IntroToEF_E.csproj|solutionrelative:introtoef_e\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F71FB93-EA0F-4ED1-AF54-3F2DC18FF447}|IntroToEF_E\\IntroToEF_E.csproj|c:\\users\\teacher\\source\\repos\\introtoef_e\\introtoef_e\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9F71FB93-EA0F-4ED1-AF54-3F2DC18FF447}|IntroToEF_E\\IntroToEF_E.csproj|solutionrelative:introtoef_e\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{583E3705-1F88-92C7-B187-E87CD13306E4}|IntroToEF_E\\IntroToEF_E.csproj|c:\\users\\teacher\\source\\repos\\introtoef_e\\introtoef_e\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583E3705-1F88-92C7-B187-E87CD13306E4}|IntroToEF_E\\IntroToEF_E.csproj|solutionrelative:introtoef_e\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583E3705-1F88-92C7-B187-E87CD13306E4}|IntroToEF_E\\IntroToEF_E.csproj|c:\\users\\teacher\\source\\repos\\introtoef_e\\introtoef_e\\ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583E3705-1F88-92C7-B187-E87CD13306E4}|IntroToEF_E\\IntroToEF_E.csproj|solutionrelative:introtoef_e\\ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583E3705-1F88-92C7-B187-E87CD13306E4}|IntroToEF_E\\IntroToEF_E.csproj|c:\\users\\teacher\\source\\repos\\introtoef_e\\introtoef_e\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{583E3705-1F88-92C7-B187-E87CD13306E4}|IntroToEF_E\\IntroToEF_E.csproj|solutionrelative:introtoef_e\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,30 +42,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToEF_E\\IntroToEF_E\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "IntroToEF_E\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToEF_E\\IntroToEF_E\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "IntroToEF_E\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T05:58:23.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToEF_E\\IntroToEF_E\\Views\\Student\\Update.cshtml",
+              "RelativeDocumentMoniker": "IntroToEF_E\\Views\\Student\\Update.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToEF_E\\IntroToEF_E\\Views\\Student\\Update.cshtml",
+              "RelativeToolTip": "IntroToEF_E\\Views\\Student\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T05:48:34.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToEF_E\\IntroToEF_E\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "IntroToEF_E\\Views\\Student\\Create.cshtml",
               "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToEF_E\\IntroToEF_E\\Views\\Student\\Create.cshtml",
               "RelativeToolTip": "IntroToEF_E\\Views\\Student\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-12T05:44:42.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToEF_E\\IntroToEF_E\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "IntroToEF_E\\Views\\Student\\Index.cshtml",
               "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToEF_E\\IntroToEF_E\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "IntroToEF_E\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvx8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-12T05:32:28.965Z",
               "EditorCaption": ""
@@ -70,14 +104,14 @@
               "RelativeDocumentMoniker": "IntroToEF_E\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToEF_E\\IntroToEF_E\\Controllers\\StudentController.cs",
               "RelativeToolTip": "IntroToEF_E\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAmwB8AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-12T05:29:57.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToEF_E\\IntroToEF_E\\Models\\Student.cs",
               "RelativeDocumentMoniker": "IntroToEF_E\\Models\\Student.cs",
@@ -85,12 +119,11 @@
               "RelativeToolTip": "IntroToEF_E\\Models\\Student.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T05:22:08.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T05:22:08.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToEF_E\\IntroToEF_E\\EF\\AppDbContext.cs",
               "RelativeDocumentMoniker": "IntroToEF_E\\EF\\AppDbContext.cs",
@@ -98,12 +131,11 @@
               "RelativeToolTip": "IntroToEF_E\\EF\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T05:15:00.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T05:15:00.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToEF_E\\IntroToEF_E\\appsettings.json",
               "RelativeDocumentMoniker": "IntroToEF_E\\appsettings.json",
@@ -111,8 +143,7 @@
               "RelativeToolTip": "IntroToEF_E\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-12T04:59:28.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T04:59:28.453Z"
             }
           ]
         },

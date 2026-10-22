@@ -3,6 +3,7 @@
 *@
 @{
 }
+@model IntroToEF_E.Models.Student;
 
 <div>
     <h1>Create Student</h1>
@@ -10,19 +11,23 @@
         <table>
             <tr>
                 <td>Student Name</td>
-                <td><input type="text" name="name" placeholder="Enter Name"/> </td>
+                <td><input type="text" name="name" placeholder="Enter Name" value="@Model?.name"/> </td>
+                <td><span class="text-danger">@Html.ValidationMessage("name")</span></td>
             </tr>
             <tr>
                 <td>Department</td>
-                <td><input type="text" name="department" placeholder="Enter Department" /> </td>
+                <td><input type="text" name="department" placeholder="Enter Department" value="@Model?.department" /> </td>
+                <td><span class="text-danger">@Html.ValidationMessage("department")</span></td>
             </tr>
             <tr>
                 <td>Program</td>
-                <td><input type="text" name="program" placeholder="Enter Program" /> </td>
+                <td><input type="text" name="program" placeholder="Enter Program" value="@Model?.program" /> </td>
+                <td><span class="text-danger">@Html.ValidationMessage("program")</span></td>
             </tr>
             <tr>
                 <td>Credit Completed</td>
-                <td><input type="number" name="credit_completed" placeholder="Enter Completed Credit" /> </td>
+                <td><input type="number" name="credit_completed" placeholder="Enter Completed Credit" value="@Model?.credit_completed" /> </td>
+                <td><span class="text-danger">@Html.ValidationMessage("credit_completed")</span></td>
             </tr>
             <tr>
                 <td></td>
