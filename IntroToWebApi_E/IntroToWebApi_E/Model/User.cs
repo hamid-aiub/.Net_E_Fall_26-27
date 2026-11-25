@@ -1,9 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace IntroToWebApi_E.Model
 {
     [Table("Users")]
+    [Index(nameof(email), IsUnique = true)]
     public class User
     {
         [Key]

@@ -1,12 +1,150 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_E\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9338DC6A-7B8C-D2C7-4104-83FF1B9CE13C}|IntroToWebApi_E\\IntroToWebApi_E.csproj|c:\\users\\teacher\\source\\repos\\introtowebapi_e\\introtowebapi_e\\migrations\\20261123050503_addcolumnstouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9338DC6A-7B8C-D2C7-4104-83FF1B9CE13C}|IntroToWebApi_E\\IntroToWebApi_E.csproj|solutionrelative:introtowebapi_e\\migrations\\20261123050503_addcolumnstouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9338DC6A-7B8C-D2C7-4104-83FF1B9CE13C}|IntroToWebApi_E\\IntroToWebApi_E.csproj|c:\\users\\teacher\\source\\repos\\introtowebapi_e\\introtowebapi_e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9338DC6A-7B8C-D2C7-4104-83FF1B9CE13C}|IntroToWebApi_E\\IntroToWebApi_E.csproj|solutionrelative:introtowebapi_e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9338DC6A-7B8C-D2C7-4104-83FF1B9CE13C}|IntroToWebApi_E\\IntroToWebApi_E.csproj|c:\\users\\teacher\\source\\repos\\introtowebapi_e\\introtowebapi_e\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9338DC6A-7B8C-D2C7-4104-83FF1B9CE13C}|IntroToWebApi_E\\IntroToWebApi_E.csproj|solutionrelative:introtowebapi_e\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9338DC6A-7B8C-D2C7-4104-83FF1B9CE13C}|IntroToWebApi_E\\IntroToWebApi_E.csproj|c:\\users\\teacher\\source\\repos\\introtowebapi_e\\introtowebapi_e\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9338DC6A-7B8C-D2C7-4104-83FF1B9CE13C}|IntroToWebApi_E\\IntroToWebApi_E.csproj|solutionrelative:introtowebapi_e\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9338DC6A-7B8C-D2C7-4104-83FF1B9CE13C}|IntroToWebApi_E\\IntroToWebApi_E.csproj|c:\\users\\teacher\\source\\repos\\introtowebapi_e\\introtowebapi_e\\migrations\\20261123045338_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9338DC6A-7B8C-D2C7-4104-83FF1B9CE13C}|IntroToWebApi_E\\IntroToWebApi_E.csproj|solutionrelative:introtowebapi_e\\migrations\\20261123045338_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9338DC6A-7B8C-D2C7-4104-83FF1B9CE13C}|IntroToWebApi_E\\IntroToWebApi_E.csproj|c:\\users\\teacher\\source\\repos\\introtowebapi_e\\introtowebapi_e\\ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9338DC6A-7B8C-D2C7-4104-83FF1B9CE13C}|IntroToWebApi_E\\IntroToWebApi_E.csproj|solutionrelative:introtowebapi_e\\ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9338DC6A-7B8C-D2C7-4104-83FF1B9CE13C}|IntroToWebApi_E\\IntroToWebApi_E.csproj|c:\\users\\teacher\\source\\repos\\introtowebapi_e\\introtowebapi_e\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9338DC6A-7B8C-D2C7-4104-83FF1B9CE13C}|IntroToWebApi_E\\IntroToWebApi_E.csproj|solutionrelative:introtowebapi_e\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9338DC6A-7B8C-D2C7-4104-83FF1B9CE13C}|IntroToWebApi_E\\IntroToWebApi_E.csproj|c:\\users\\teacher\\source\\repos\\introtowebapi_e\\introtowebapi_e\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9338DC6A-7B8C-D2C7-4104-83FF1B9CE13C}|IntroToWebApi_E\\IntroToWebApi_E.csproj|solutionrelative:introtowebapi_e\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_E\\IntroToWebApi_E\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "IntroToWebApi_E\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_E\\IntroToWebApi_E\\Controllers\\UserController.cs",
+              "RelativeToolTip": "IntroToWebApi_E\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T05:22:55.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20261123050503_AddColumnsToUser.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_E\\IntroToWebApi_E\\Migrations\\20261123050503_AddColumnsToUser.cs",
+              "RelativeDocumentMoniker": "IntroToWebApi_E\\Migrations\\20261123050503_AddColumnsToUser.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_E\\IntroToWebApi_E\\Migrations\\20261123050503_AddColumnsToUser.cs",
+              "RelativeToolTip": "IntroToWebApi_E\\Migrations\\20261123050503_AddColumnsToUser.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T05:05:09.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_E\\IntroToWebApi_E\\Program.cs",
+              "RelativeDocumentMoniker": "IntroToWebApi_E\\Program.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_E\\IntroToWebApi_E\\Program.cs",
+              "RelativeToolTip": "IntroToWebApi_E\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T04:47:32.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_E\\IntroToWebApi_E\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "IntroToWebApi_E\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_E\\IntroToWebApi_E\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "IntroToWebApi_E\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T05:06:05.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20261123045338_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_E\\IntroToWebApi_E\\Migrations\\20261123045338_InitialCreate.cs",
+              "RelativeDocumentMoniker": "IntroToWebApi_E\\Migrations\\20261123045338_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_E\\IntroToWebApi_E\\Migrations\\20261123045338_InitialCreate.cs",
+              "RelativeToolTip": "IntroToWebApi_E\\Migrations\\20261123045338_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T04:54:23.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_E\\IntroToWebApi_E\\EF\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "IntroToWebApi_E\\EF\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_E\\IntroToWebApi_E\\EF\\AppDbContext.cs",
+              "RelativeToolTip": "IntroToWebApi_E\\EF\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T04:46:22.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_E\\IntroToWebApi_E\\Model\\User.cs",
+              "RelativeDocumentMoniker": "IntroToWebApi_E\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_E\\IntroToWebApi_E\\Model\\User.cs",
+              "RelativeToolTip": "IntroToWebApi_E\\Model\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T04:41:20.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_E\\IntroToWebApi_E\\appsettings.json",
+              "RelativeDocumentMoniker": "IntroToWebApi_E\\appsettings.json",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToWebApi_E\\IntroToWebApi_E\\appsettings.json",
+              "RelativeToolTip": "IntroToWebApi_E\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-23T04:40:38.992Z"
+            }
+          ]
+        },
         {
           "DockedWidth": 1007,
           "SelectedChildIndex": -1,

@@ -36,13 +36,16 @@ namespace IntroToWebApi_E.Migrations
 
                     b.Property<string>("email")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("password")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("id");
+
+                    b.HasIndex("email")
+                        .IsUnique();
 
                     b.ToTable("Users");
                 });
